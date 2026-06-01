@@ -54,5 +54,5 @@ I am a detail-oriented and results-driven Backend Developer specializing in Node
 
 ### 🤝 Connect with Me
 🎵 **Email:** sayedmansouer222@gmail.com  
-💼 **LinkedIn:** [Sayed Abdelnasser](https://www.linkedin.com/in/sayed-abdel-nasser-330435388)  
+💼 **LinkedIn:** [Sayed Abdelnasser](https://www.linkedin.com/in/sayed-abdelnasser-mahdy-330435388)  
 

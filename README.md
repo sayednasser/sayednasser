@@ -46,9 +46,10 @@ I am a detail-oriented and results-driven Backend Developer specializing in Node
 
 ### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayednasser&theme=twotone&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Sayed's GitHub Trophies" />
+ <p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayednasser&theme=github-dark&hide_border=true" width="100%" />
 </p>
+
 
 ---
 

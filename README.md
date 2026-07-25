@@ -4,8 +4,10 @@ Backend Developer | Node.js • Express.js • MongoDB • TypeScript
 
 Passionate about building scalable APIs, designing efficient database architectures, and developing reliable backend systems.
 
-🎓 Computer Science & Artificial Intelligence Graduate, Helwan University (2023)
-🪖 Former Reserve Officer with strong leadership and problem-solving skills.
+🎓 Computer Science & Artificial Intelligence Graduate, Helwan University (2023) .
+
+🪖 Former Reserve Officer with strong leadership and problem-solving skills. 
+
 ⚡ Currently expanding my backend and cloud development expertise.
 
 ---

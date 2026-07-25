@@ -44,7 +44,7 @@ I am a detail-oriented and results-driven Backend Developer specializing in Node
 - 💬 Added WhatsApp integration for direct patient communication.
 - 📱 Designed a fully responsive and user-friendly interface for all devices.
 
-**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Telegram Bot API
+**Tech Stack:** Node.js, Express.js, MongoDB, Telegram Bot API
 
 🔗 **Live Demo:** https://dentil-page2.vercel.app/  
 🔗 **Repository:** https://github.com/sayednasser/Appointment-System-page.git

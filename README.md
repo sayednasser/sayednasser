@@ -35,6 +35,25 @@ I am a detail-oriented and results-driven Backend Developer specializing in Node
 
 ### 📂 Featured Project
 
+## 🦷 Dental Clinic Booking Website
+
+A full-stack dental clinic booking platform that enables patients to book appointments online with real-time Telegram notifications for clinic staff.
+
+### Highlights
+- Online appointment booking system
+- Doctor and time slot selection
+- Telegram Bot notifications
+- Services & offers management
+- Before & After gallery
+- WhatsApp integration
+- Responsive UI for all devices
+
+### Tech Stack
+React.js • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Telegram Bot API
+
+🔗 Live Demo: https://dentil-page2.vercel.app/
+🔗 Repository: YOUR_REPO_LINK
+
 🔥 **[Sara7a Media App (Backend)](https://github.com/sayednasser/Sara7a-Media-App-Backend)**
 *A secure and scalable RESTful API for an anonymous messaging platform built with Node.js, Express.js, and TypeScript.*
 - 🔐 Implemented secure JWT Authentication and Authorization workflows.

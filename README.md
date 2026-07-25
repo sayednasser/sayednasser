@@ -33,35 +33,31 @@ I am a detail-oriented and results-driven Backend Developer specializing in Node
 
 ---
 
-### 📂 Featured Project
+### 📂 Featured Projects
 
-## 🦷 Dental Clinic Booking Website
+🔥 **[Dental Clinic Booking Website](https://dentil-page2.vercel.app/)**  
+*A modern full-stack dental clinic booking platform built with React.js, Node.js, Express.js, and MongoDB.*
 
-A full-stack dental clinic booking platform that enables patients to book appointments online with real-time Telegram notifications for clinic staff.
+- 📅 Developed an online appointment booking system with doctor and available time-slot selection.
+- 🤖 Integrated Telegram Bot notifications for instant booking alerts to clinic staff.
+- 🦷 Built dynamic sections for services, special offers, and before/after treatment gallery.
+- 💬 Added WhatsApp integration for direct patient communication.
+- 📱 Designed a fully responsive and user-friendly interface for all devices.
 
-### Highlights
-- Online appointment booking system
-- Doctor and time slot selection
-- Telegram Bot notifications
-- Services & offers management
-- Before & After gallery
-- WhatsApp integration
-- Responsive UI for all devices
+**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Telegram Bot API
 
-### Tech Stack
-React.js • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Telegram Bot API
-
-🔗 Live Demo: https://dentil-page2.vercel.app/
-🔗 Repository: YOUR_REPO_LINK
-
-🔥 **[Sara7a Media App (Backend)](https://github.com/sayednasser/Sara7a-Media-App-Backend)**
-*A secure and scalable RESTful API for an anonymous messaging platform built with Node.js, Express.js, and TypeScript.*
-- 🔐 Implemented secure JWT Authentication and Authorization workflows.
-- 🗃️ Optimized database schemas and relationships using MongoDB and Mongoose.
-- 🛠️ Architecture: Formatted beautifully using strict MVC Architecture.
-- 🎯 Tested and fully documented via Postman.
+🔗 **Live Demo:** https://dentil-page2.vercel.app/  
+🔗 **Repository:** YOUR_REPO_LINK
 
 ---
+
+🔥 **[Sara7a Media App (Backend)](https://github.com/sayednasser/Sara7a-Media-App-Backend)**  
+*A secure and scalable RESTful API for an anonymous messaging platform built with Node.js, Express.js, and TypeScript.*
+
+- 🔐 Implemented secure JWT Authentication and Authorization workflows.
+- 🗃️ Optimized database schemas and relationships using MongoDB and Mongoose.
+- 🛠️ Architecture: Built using a clean MVC Architecture.
+- 🎯 Tested and fully documented via Postman.
 
 ### 📊 GitHub Activity
 

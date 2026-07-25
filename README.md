@@ -1,11 +1,12 @@
 # Hi, I'm Sayed Abdelnasser Mahdy 👋
 ### Backend Developer (Node.js) 🚀
+Backend Developer | Node.js • Express.js • MongoDB • TypeScript
 
-I am a detail-oriented and results-driven Backend Developer specializing in Node.js, with a solid academic foundation in Computer Science and Artificial Intelligence. I love building scalable APIs, managing databases, and implementing robust backend solutions.
+Passionate about building scalable APIs, designing efficient database architectures, and developing reliable backend systems.
 
-- 🎓 Graduated from Helwan University (Computer Science & AI, 2023)
-- 🪖 Served 2 years as a Military Officer (Reserve) - Gained strong discipline & leadership skills.
-- ⚡ Currently upgrading my backend skills at Route Academy.
+🎓 Computer Science & Artificial Intelligence Graduate, Helwan University (2023)
+🪖 Former Reserve Officer with strong leadership and problem-solving skills.
+⚡ Currently expanding my backend and cloud development expertise.
 
 ---
 
